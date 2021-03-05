@@ -5,3 +5,4 @@ package-lock.json
 thisisjustatest.js
 thisisanothertest.js
 dump/*
+!dump/.placeholder
