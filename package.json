@@ -1,0 +1,27 @@
+{
+  "name": "instagram-message-dump-interface",
+  "version": "1.0.0",
+  "description": "IMDI is a program to read instagram message dumps ",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm install",
+    "main": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsahler/imdi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsahler/imdi/issues"
+  },
+  "homepage": "https://github.com/vsahler/imdi#readme",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "clui": "^0.3.6",
+    "inquirer": "^8.0.0",
+    "terminal-kit": "^2.0.5"
+  }
+}
